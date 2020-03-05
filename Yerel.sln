@@ -1,0 +1,105 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerel.Entities", "Yerel.Entities\Yerel.Entities.csproj", "{8F222DD9-D076-4AE2-8308-BFD126B17FC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerel.Business", "Yerel.Business\Yerel.Business.csproj", "{A99DCBCA-8878-4C91-AC73-04CB2741E439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerel.DataAccess", "Yerel.DataAccess\Yerel.DataAccess.csproj", "{A972D8DB-F02F-4209-A4F1-3D612C27DF70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerel.Mvc", "Yerel.Mvc\Yerel.Mvc.csproj", "{B51F5641-A95B-4C6A-9DC6-1BFD30523447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerel.Core", "Yerel.Core\Yerel.Core.csproj", "{0ECC2DC7-60FF-470F-9ACB-62B51F182F64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hosting", "Hosting", "{C035FE2D-F365-42FE-94BE-156121910E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerel.Hosting", "Yerel.Hosting\Yerel.Hosting.csproj", "{285F2B3C-0A6E-4AC5-B236-DFC7B24CF70F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerel.ServiceLibrary", "Yerel.ServiceLibrary\Yerel.ServiceLibrary.csproj", "{52EC982A-2B33-45ED-956B-1F821AECB194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerel.Desktop", "Yerel.Desktop\Yerel.Desktop.csproj", "{A4AA677B-BE93-4AE2-8743-DEC93C5D1D8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F222DD9-D076-4AE2-8308-BFD126B17FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F222DD9-D076-4AE2-8308-BFD126B17FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F222DD9-D076-4AE2-8308-BFD126B17FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F222DD9-D076-4AE2-8308-BFD126B17FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A99DCBCA-8878-4C91-AC73-04CB2741E439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99DCBCA-8878-4C91-AC73-04CB2741E439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A99DCBCA-8878-4C91-AC73-04CB2741E439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99DCBCA-8878-4C91-AC73-04CB2741E439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A972D8DB-F02F-4209-A4F1-3D612C27DF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A972D8DB-F02F-4209-A4F1-3D612C27DF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A972D8DB-F02F-4209-A4F1-3D612C27DF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A972D8DB-F02F-4209-A4F1-3D612C27DF70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51F5641-A95B-4C6A-9DC6-1BFD30523447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51F5641-A95B-4C6A-9DC6-1BFD30523447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51F5641-A95B-4C6A-9DC6-1BFD30523447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51F5641-A95B-4C6A-9DC6-1BFD30523447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECC2DC7-60FF-470F-9ACB-62B51F182F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECC2DC7-60FF-470F-9ACB-62B51F182F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECC2DC7-60FF-470F-9ACB-62B51F182F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECC2DC7-60FF-470F-9ACB-62B51F182F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{285F2B3C-0A6E-4AC5-B236-DFC7B24CF70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285F2B3C-0A6E-4AC5-B236-DFC7B24CF70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285F2B3C-0A6E-4AC5-B236-DFC7B24CF70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285F2B3C-0A6E-4AC5-B236-DFC7B24CF70F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52EC982A-2B33-45ED-956B-1F821AECB194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52EC982A-2B33-45ED-956B-1F821AECB194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52EC982A-2B33-45ED-956B-1F821AECB194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52EC982A-2B33-45ED-956B-1F821AECB194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4AA677B-BE93-4AE2-8743-DEC93C5D1D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4AA677B-BE93-4AE2-8743-DEC93C5D1D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4AA677B-BE93-4AE2-8743-DEC93C5D1D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4AA677B-BE93-4AE2-8743-DEC93C5D1D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{285F2B3C-0A6E-4AC5-B236-DFC7B24CF70F} = {C035FE2D-F365-42FE-94BE-156121910E39}
+		{52EC982A-2B33-45ED-956B-1F821AECB194} = {C035FE2D-F365-42FE-94BE-156121910E39}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {889780EB-C20D-488C-ABDE-C287477BB05C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://blackman5007.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Yerel.Business\\Yerel.Business.csproj
+		SccProjectName1 = Yerel.Business
+		SccLocalPath1 = Yerel.Business
+		SccProjectUniqueName2 = Yerel.Core\\Yerel.Core.csproj
+		SccProjectName2 = Yerel.Core
+		SccLocalPath2 = Yerel.Core
+		SccProjectUniqueName3 = Yerel.DataAccess\\Yerel.DataAccess.csproj
+		SccProjectName3 = Yerel.DataAccess
+		SccLocalPath3 = Yerel.DataAccess
+		SccProjectUniqueName4 = Yerel.Entities\\Yerel.Entities.csproj
+		SccProjectName4 = Yerel.Entities
+		SccLocalPath4 = Yerel.Entities
+		SccProjectUniqueName5 = Yerel.Mvc\\Yerel.Mvc.csproj
+		SccProjectName5 = Yerel.Mvc
+		SccLocalPath5 = Yerel.Mvc
+		SccProjectUniqueName6 = Yerel.Hosting\\Yerel.Hosting.csproj
+		SccProjectTopLevelParentUniqueName6 = Yerel.sln
+		SccProjectName6 = Yerel.Hosting
+		SccLocalPath6 = Yerel.Hosting
+		SccProjectUniqueName7 = Yerel.ServiceLibrary\\Yerel.ServiceLibrary.csproj
+		SccProjectTopLevelParentUniqueName7 = Yerel.sln
+		SccProjectName7 = Yerel.ServiceLibrary
+		SccLocalPath7 = Yerel.ServiceLibrary
+		SccProjectUniqueName8 = Yerel.Desktop\\Yerel.Desktop.csproj
+		SccProjectName8 = Yerel.Desktop
+		SccLocalPath8 = Yerel.Desktop
+	EndGlobalSection
+EndGlobal
