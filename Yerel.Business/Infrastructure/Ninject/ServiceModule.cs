@@ -6,8 +6,8 @@ namespace Yerel.Business.Infrastructure.Ninject
     {
         public override void Load()
         {
-            Bind<IProductService>().ToConstant(WcfProxy<IProductService>.Create()).InSingletonScope();
-            Bind<IStockService>().ToConstant(WcfProxy<IStockService>.Create()).InSingletonScope();
+            Bind<IDataTempService>().ToConstant(WcfProxy<IDataTempService>.Create()).InSingletonScope();
+            Bind<IUserService>().ToConstant(WcfProxy<IUserService>.Create()).InSingletonScope();
         }
     }
 }

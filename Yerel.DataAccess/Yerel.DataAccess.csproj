@@ -57,12 +57,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Absract\IStockDal.cs" />
-    <Compile Include="Absract\IProductDal.cs" />
-    <Compile Include="Concrete\Mapping\StocksMap.cs" />
-    <Compile Include="Concrete\Mapping\ProductsMap.cs" />
-    <Compile Include="Concrete\StockDal.cs" />
-    <Compile Include="Concrete\ProductDal.cs" />
+    <Compile Include="Absract\IUserDal.cs" />
+    <Compile Include="Absract\IDataTempDal.cs" />
+    <Compile Include="Concrete\Mapping\UsersMap.cs" />
+    <Compile Include="Concrete\Mapping\DataTempsMap.cs" />
+    <Compile Include="Concrete\UserDal.cs" />
+    <Compile Include="Concrete\DataTempDal.cs" />
     <Compile Include="Concrete\DBContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

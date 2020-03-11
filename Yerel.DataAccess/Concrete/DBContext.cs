@@ -15,13 +15,13 @@ namespace Yerel.DataAccess.Concrete
             : base("Name=DBContext")
         {
         }
-        public DbSet<Product> Prodcuts { get; set; }
-        public DbSet<Stock> Stocks { get; set; }
+        public DbSet<DataTemp> DataTemps { get; set; }
+        public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            modelBuilder.Configurations.Add(new ProductsMap());
-            modelBuilder.Configurations.Add(new StocksMap());
+            modelBuilder.Configurations.Add(new UsersMap());
+            modelBuilder.Configurations.Add(new DataTempsMap());
         }
     }
 }

@@ -1,0 +1,2 @@
+C:\ProgramData\PostSharp\6.4.8\bin.Release\net472\PostSharp.Compiler.Engine.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\obj\Debug\PostSharp\postsharp.config

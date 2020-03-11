@@ -1,0 +1,29 @@
+﻿<link href="~/Content/assets/css/toastr.min.css" rel="stylesheet" />
+<script src="~/Content/assets/js/toastr.min.js"></script>
+<script>
+    toastr.options = {
+        "closeButton": true,
+        "progressBar": true,
+        "positionClass": "toast-top-full-width",
+        "showDuration": "1000",
+        "hideDuration": "1000",
+        "timeOut": "5000",
+        "extendedTimeOut": "1000",
+        "showEasing": "swing",
+        "hideEasing": "linear",
+        "showMethod": "fadeIn",
+        "hideMethod": "fadeOut"
+    }
+</script>
+
+@if (TempData["notifyMessage"] != null)
+{
+
+    <script>
+
+        $(function () {
+            toastr['@TempData["notifyType"]']('@TempData["notifyMessage"]');
+        });
+
+    </script>
+}

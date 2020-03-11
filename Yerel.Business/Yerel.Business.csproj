@@ -57,15 +57,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Absract\IStockService.cs" />
-    <Compile Include="Absract\IProductService.cs" />
-    <Compile Include="Concrete\StockManager.cs" />
-    <Compile Include="Concrete\ProductManager.cs" />
+    <Compile Include="Absract\IUserService.cs" />
+    <Compile Include="Absract\IDataTempService.cs" />
+    <Compile Include="Concrete\UserManager.cs" />
+    <Compile Include="Concrete\DataTempManager.cs" />
     <Compile Include="Infrastructure\Ninject\BusinessModule.cs" />
     <Compile Include="Infrastructure\Ninject\DependencyResolver.cs" />
     <Compile Include="Infrastructure\Ninject\ServiceModule.cs" />
     <Compile Include="Infrastructure\Validation\NinjectValidatoryFactory.cs" />
-    <Compile Include="Infrastructure\Validation\ProductValidator.cs" />
+    <Compile Include="Infrastructure\Validation\UserValidator.cs" />
     <Compile Include="Infrastructure\WcfProxy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

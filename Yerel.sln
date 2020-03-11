@@ -21,7 +21,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerel.ServiceLibrary", "Yer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerel.Desktop", "Yerel.Desktop\Yerel.Desktop.csproj", "{A4AA677B-BE93-4AE2-8743-DEC93C5D1D8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerel.Yonetim", "Yerel.Yonetim\Yerel.Yonetim.csproj", "{8B016253-360C-4EC0-8D86-AD3EE72647E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yerel.Yonetim", "Yerel.Yonetim\Yerel.Yonetim.csproj", "{8B016253-360C-4EC0-8D86-AD3EE72647E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerel.aws", "Yerel.aws\Yerel.aws.csproj", "{23FB4625-2AC7-41FF-8D34-19C533DAA7BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerel.ClipTwo", "Yerel.ClipTwo\Yerel.ClipTwo.csproj", "{A0E93B96-A195-4F5D-A11A-8631FDCC8123}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,6 +69,14 @@ Global
 		{8B016253-360C-4EC0-8D86-AD3EE72647E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B016253-360C-4EC0-8D86-AD3EE72647E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B016253-360C-4EC0-8D86-AD3EE72647E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23FB4625-2AC7-41FF-8D34-19C533DAA7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FB4625-2AC7-41FF-8D34-19C533DAA7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FB4625-2AC7-41FF-8D34-19C533DAA7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FB4625-2AC7-41FF-8D34-19C533DAA7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E93B96-A195-4F5D-A11A-8631FDCC8123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E93B96-A195-4F5D-A11A-8631FDCC8123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E93B96-A195-4F5D-A11A-8631FDCC8123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E93B96-A195-4F5D-A11A-8631FDCC8123}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

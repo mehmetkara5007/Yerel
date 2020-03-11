@@ -1,0 +1,139 @@
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\Yerel.Core.pssym
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\Yerel.Core.dll.config
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\Yerel.Core.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\Yerel.Core.pdb
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\EntityFramework.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\FluentValidation.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\FluentValidation.Mvc.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\FluentValidation.ValidatorAttribute.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\log4net.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\Ninject.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\PostSharp.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\System.Web.Helpers.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\System.Web.Mvc.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\System.Web.Razor.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\System.Web.WebPages.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\EntityFramework.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\FluentValidation.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\FluentValidation.Mvc.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\log4net.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\Ninject.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\PostSharp.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\System.Web.Helpers.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\System.Web.Mvc.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\System.Web.Razor.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\System.Web.WebPages.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\obj\Debug\PostSharp\touch
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\obj\Debug\PostSharp\dependencies.txt
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\obj\Debug\Yerel.Core.csproj.CopyComplete
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\obj\Debug\Yerel.Core.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\obj\Debug\Yerel.Core.pdb
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Core\obj\Debug\PostSharp\postsharp.app.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\Yerel.Core.pssym
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\Yerel.Core.dll.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\Yerel.Core.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\Yerel.Core.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\EntityFramework.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\FluentValidation.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\FluentValidation.Mvc.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\FluentValidation.ValidatorAttribute.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\log4net.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\Ninject.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\PostSharp.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\System.Web.Helpers.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\System.Web.Mvc.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\System.Web.Razor.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\System.Web.WebPages.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\EntityFramework.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\FluentValidation.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\FluentValidation.Mvc.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\log4net.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\Ninject.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\PostSharp.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\System.Web.Helpers.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\System.Web.Mvc.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\System.Web.Razor.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\System.Web.WebPages.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\obj\Debug\Yerel.Core.csprojAssemblyReference.cache
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\obj\Debug\PostSharp\touch
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\obj\Debug\PostSharp\dependencies.txt
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\obj\Debug\Yerel.Core.csproj.CopyComplete
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\obj\Debug\Yerel.Core.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\obj\Debug\Yerel.Core.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Core\obj\Debug\PostSharp\postsharp.app.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\Yerel.Core.pssym
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\Yerel.Core.dll.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\Yerel.Core.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\Yerel.Core.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\EntityFramework.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\FluentValidation.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\FluentValidation.Mvc.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\FluentValidation.ValidatorAttribute.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\log4net.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\Ninject.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\PostSharp.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\System.Web.Helpers.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\System.Web.Mvc.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\System.Web.Razor.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\System.Web.WebPages.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\EntityFramework.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\FluentValidation.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\FluentValidation.Mvc.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\log4net.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\Ninject.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\PostSharp.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\System.Web.Helpers.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\System.Web.Mvc.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\System.Web.Razor.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\System.Web.WebPages.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\obj\Debug\Yerel.Core.csprojAssemblyReference.cache
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\obj\Debug\PostSharp\touch
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\obj\Debug\PostSharp\dependencies.txt
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\obj\Debug\Yerel.Core.csproj.CopyComplete
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\obj\Debug\Yerel.Core.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\obj\Debug\Yerel.Core.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\obj\Debug\PostSharp\postsharp.app.config

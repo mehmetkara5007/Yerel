@@ -1,0 +1,25 @@
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Yonetim\bin\Debug\netcoreapp3.1\Yerel.Yonetim.deps.json
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Yonetim\bin\Debug\netcoreapp3.1\Yerel.Yonetim.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Yonetim\bin\Debug\netcoreapp3.1\Yerel.Yonetim.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Yonetim\obj\Debug\netcoreapp3.1\Yerel.Yonetim.csprojAssemblyReference.cache
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Yonetim\obj\Debug\netcoreapp3.1\UserControl1.g.cs
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Yonetim\obj\Debug\netcoreapp3.1\Yerel.Yonetim_MarkupCompile.cache
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Yonetim\obj\Debug\netcoreapp3.1\Yerel.Yonetim_MarkupCompile.lref
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Yonetim\obj\Debug\netcoreapp3.1\UserControl1.baml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Yonetim\obj\Debug\netcoreapp3.1\Yerel.Yonetim.g.resources
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Yonetim\obj\Debug\netcoreapp3.1\Yerel.Yonetim.AssemblyInfoInputs.cache
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Yonetim\obj\Debug\netcoreapp3.1\Yerel.Yonetim.AssemblyInfo.cs
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Yonetim\obj\Debug\netcoreapp3.1\Yerel.Yonetim.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Yonetim\obj\Debug\netcoreapp3.1\Yerel.Yonetim.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Yonetim\bin\Debug\netcoreapp3.1\Yerel.Yonetim.deps.json
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Yonetim\bin\Debug\netcoreapp3.1\Yerel.Yonetim.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Yonetim\bin\Debug\netcoreapp3.1\Yerel.Yonetim.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Yonetim\obj\Debug\netcoreapp3.1\UserControl1.g.cs
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Yonetim\obj\Debug\netcoreapp3.1\Yerel.Yonetim_MarkupCompile.cache
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Yonetim\obj\Debug\netcoreapp3.1\Yerel.Yonetim_MarkupCompile.lref
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Yonetim\obj\Debug\netcoreapp3.1\UserControl1.baml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Yonetim\obj\Debug\netcoreapp3.1\Yerel.Yonetim.g.resources
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Yonetim\obj\Debug\netcoreapp3.1\Yerel.Yonetim.AssemblyInfoInputs.cache
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Yonetim\obj\Debug\netcoreapp3.1\Yerel.Yonetim.AssemblyInfo.cs
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Yonetim\obj\Debug\netcoreapp3.1\Yerel.Yonetim.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Yonetim\obj\Debug\netcoreapp3.1\Yerel.Yonetim.pdb

@@ -9,12 +9,12 @@ namespace Yerel.Business.Infrastructure.Ninject
         public override void Load()
         {
             //Bll Binding
-            Bind<IProductService>().To<ProductManager>().InSingletonScope();
-            Bind<IStockService>().To<StockManager>().InSingletonScope();
+            Bind<IDataTempService>().To<DataTempManager>().InSingletonScope();
+            Bind<IUserService>().To<UserManager>().InSingletonScope();
 
             //Dal binding
-            Bind<IProductDal>().To<ProductDal>().InSingletonScope();
-            Bind<IStockDal>().To<StockDal>().InSingletonScope();
+            Bind<IDataTempDal>().To<DataTempDal>().InSingletonScope();
+            Bind<IUserDal>().To<UserDal>().InSingletonScope();
         }
     }
 }
