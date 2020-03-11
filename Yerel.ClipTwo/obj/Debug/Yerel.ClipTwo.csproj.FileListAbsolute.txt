@@ -75,3 +75,5 @@ C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\AWSSDK.
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\AWSSDK.Core.xml
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\AWSSDK.S3.pdb
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\AWSSDK.S3.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\Content\assets\css\toastr.min.css
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\Content\assets\js\toastr.min.js

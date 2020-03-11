@@ -102,6 +102,10 @@
     <Content Include="Content\assets\css\themes\theme-4.css" />
     <Content Include="Content\assets\css\themes\theme-5.css" />
     <Content Include="Content\assets\css\themes\theme-6.css" />
+    <Content Include="Content\assets\css\toastr.css" />
+    <Content Include="Content\assets\css\toastr.min.css">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Content\assets\images\africa-17344_640.jpg" />
     <Content Include="Content\assets\images\avatar-1-big.jpg" />
     <Content Include="Content\assets\images\avatar-1-small.jpg" />
@@ -148,7 +152,9 @@
     <Content Include="Content\assets\js\pages-messages.js" />
     <Content Include="Content\assets\js\table-data.js" />
     <Content Include="Content\assets\js\toastr.js" />
-    <Content Include="Content\assets\js\toastr.min.js" />
+    <Content Include="Content\assets\js\toastr.min.js">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Content\assets\js\ui-buttons.js" />
     <Content Include="Content\assets\js\ui-elements.js" />
     <Content Include="Content\assets\js\ui-nestable.js" />
@@ -1078,6 +1084,8 @@
     <Content Include="Content\vendor\themify-icons\fonts\themify.ttf" />
     <Content Include="Content\vendor\themify-icons\fonts\themify.woff" />
     <Content Include="Content\vendor\toastr\toastr.js.map" />
+    <Content Include="Content\assets\css\toastr.less" />
+    <Content Include="Content\assets\css\toastr.scss" />
     <None Include="packages.config" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Bucket\List.cshtml" />
