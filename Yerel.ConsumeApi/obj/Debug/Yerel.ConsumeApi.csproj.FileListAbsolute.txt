@@ -1,0 +1,9 @@
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ConsumeApi\bin\Debug\Yerel.ConsumeApi.exe.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ConsumeApi\bin\Debug\Yerel.ConsumeApi.exe
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ConsumeApi\bin\Debug\Yerel.ConsumeApi.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ConsumeApi\bin\Debug\RestSharp.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ConsumeApi\bin\Debug\RestSharp.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ConsumeApi\obj\Debug\Yerel.ConsumeApi.csprojAssemblyReference.cache
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ConsumeApi\obj\Debug\Yerel.ConsumeApi.csproj.CopyComplete
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ConsumeApi\obj\Debug\Yerel.ConsumeApi.exe
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ConsumeApi\obj\Debug\Yerel.ConsumeApi.pdb

@@ -184,4 +184,3 @@ C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Mvc\obj\Debug\Yerel.Mvc.c
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Mvc\obj\Debug\Yerel.Mvc.csproj.CopyComplete
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Mvc\obj\Debug\Yerel.Mvc.dll
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Mvc\obj\Debug\Yerel.Mvc.pdb
-C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Mvc\obj\Debug\Yerel.Mvc.csprojAssemblyReference.cache

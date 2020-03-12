@@ -1,3 +1,5 @@
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\Content\assets\css\toastr.min.css
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\Content\assets\js\toastr.min.js
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\Yerel.ClipTwo.dll.config
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\Yerel.ClipTwo.dll
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\Yerel.ClipTwo.pdb
@@ -50,6 +52,8 @@ C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\roslyn\
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\roslyn\vbc.rsp
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\roslyn\VBCSCompiler.exe
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\AWSSDK.Core.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\AWSSDK.S3.dll
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\System.Web.Helpers.dll
@@ -58,6 +62,10 @@ C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\System.
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\System.Web.Webpages.Deployment.dll
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\System.Web.Webpages.dll
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\System.Web.Webpages.Razor.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\AWSSDK.Core.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\AWSSDK.Core.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\AWSSDK.S3.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\AWSSDK.S3.xml
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\System.Web.Razor.xml
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\System.Web.Webpages.xml
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\System.Web.Webpages.Deployment.xml
@@ -69,11 +77,3 @@ C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\obj\Debug\Y
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\obj\Debug\Yerel.ClipTwo.csproj.CopyComplete
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\obj\Debug\Yerel.ClipTwo.dll
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\obj\Debug\Yerel.ClipTwo.pdb
-C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\AWSSDK.Core.dll
-C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\AWSSDK.S3.dll
-C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\AWSSDK.Core.pdb
-C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\AWSSDK.Core.xml
-C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\AWSSDK.S3.pdb
-C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\AWSSDK.S3.xml
-C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\Content\assets\css\toastr.min.css
-C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.ClipTwo\bin\Content\assets\js\toastr.min.js

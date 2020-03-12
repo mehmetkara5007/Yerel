@@ -1,3 +1,7 @@
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.aws\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.aws\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.aws\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.aws\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.aws\bin\Yerel.aws.dll.config
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.aws\bin\Yerel.aws.dll
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.aws\bin\Yerel.aws.pdb
@@ -116,7 +120,3 @@ C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.aws\obj\Debug\Yerel
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.aws\obj\Debug\Yerel.aws.csproj.CopyComplete
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.aws\obj\Debug\Yerel.aws.dll
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.aws\obj\Debug\Yerel.aws.pdb
-C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.aws\bin\SqlServerTypes\x64\msvcr120.dll
-C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.aws\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
-C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.aws\bin\SqlServerTypes\x86\msvcr120.dll
-C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.aws\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
