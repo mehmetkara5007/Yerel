@@ -130,7 +130,6 @@ C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\Syst
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\System.Web.WebPages.xml
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\bin\Debug\System.Web.WebPages.Razor.xml
-C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\obj\Debug\Yerel.Core.csprojAssemblyReference.cache
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\obj\Debug\PostSharp\touch
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\obj\Debug\PostSharp\dependencies.txt
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\obj\Debug\Yerel.Core.csproj.CopyComplete

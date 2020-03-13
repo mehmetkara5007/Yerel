@@ -29,7 +29,6 @@ C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Desktop\obj\Debug\Yerel.D
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Desktop\bin\Debug\Yerel.Desktop.exe.config
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Desktop\bin\Debug\Yerel.Desktop.exe
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Desktop\bin\Debug\Yerel.Desktop.pdb
-C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Desktop\obj\Debug\Yerel.Desktop.csprojAssemblyReference.cache
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Desktop\obj\Debug\MainWindow.g.cs
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Desktop\obj\Debug\App.g.cs
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Desktop\obj\Debug\Yerel.Desktop_MarkupCompile.cache

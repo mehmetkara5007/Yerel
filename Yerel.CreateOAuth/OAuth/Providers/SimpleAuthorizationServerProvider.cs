@@ -19,7 +19,7 @@ namespace Yerel.CreateOAuth.OAuth.Providers
             context.OwinContext.Response.Headers.Add("Access-Control-Allow-Origin", new[] { "*" });
 
             // Kullanıcının access_token alabilmesi için gerekli validation işlemlerini yapıyoruz.
-            if (context.UserName == "Gokhan" && context.Password == "123456")
+            if (context.UserName == "Visma" && context.Password == "123123")
             {
                 var identity = new ClaimsIdentity(context.Options.AuthenticationType);
 

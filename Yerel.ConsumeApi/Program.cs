@@ -11,22 +11,20 @@ namespace Yerel.ConsumeApi
     {
         static void Main(string[] args)
         {
-            //var client = new RestClient("http://localhost:44380/api/Orders/List");
+            //var client = new RestClient("http://localhost:44387/api/Client/List");
             //var request = new RestRequest(Method.GET);
             //request.AddHeader("Content-Type", "application/x-www-form-urlencoded");
-            //request.AddHeader("Authorization", "Bearer Px1UWgNvMtivdhvEjGHl9sVsdNqljNR0Y1untRFL-xiGrRKjFP8zPLnhcYibLkLMfODBc1RCFegv4ginq3dEsFOZ6Ac0LQ20DKXTae_O2wi-9g9yaoAbzZv9ZqOQpCOLhVLFu3oApe8Vv2eyG7WA247460EMUkf2ny0VIHBpsFTq8ohBE_dsFCdjKR4UtrzH1Ua_hql25TI4y0Uu3q3DPkoLrcBw0ai4uXbMvdytRBA");
+            //request.AddHeader("Authorization", "Bearer Chol0uVPO3qdJbOJM3A5yMdY6iLsNPuD49zG441s6NksYKLWX1u9ER_OFRMjoXr6dxq60-WQlevquB8G5PdmGkemLpPDb1gAiEe2YHro0ZSlWopZLNuYw4sxIPPe_1WDhhJi0UMfWrpIuOLL0jvdcQaSIRt0K6Nbfh1g4-c2byg8nVmetxVNqN5eGMQilkq5HFJskwBBTFRI0AxP2v4Or6ktuay-ySYdPHNclhrCmJY");
             //IRestResponse response = client.Execute(request);
             //var result = response.Content;
-
-
             //Console.WriteLine(result);
             //Console.ReadLine();
 
-            var client = new RestClient("http://localhost:44380/token");
+            var client = new RestClient("http://vismaauthentication-test.eu-north-1.elasticbeanstalk.com//token");
             var request = new RestRequest(Method.POST);
             request.AddHeader("content-type", "application/json");
             request.AddHeader("accept", "application/x-www-form-urlencoded");
-            request.AddParameter("application/x-www-form-urlencoded", "grant_type=password&username=Gokhan&password=123456", ParameterType.RequestBody);
+            request.AddParameter("application/x-www-form-urlencoded", "grant_type=password&username=Visma&password=123123", ParameterType.RequestBody);
             IRestResponse response = client.Execute(request);
             var result = response.Content;
 

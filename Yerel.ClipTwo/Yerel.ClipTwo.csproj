@@ -50,6 +50,12 @@
       <HintPath>..\packages\AWSSDK.S3.3.3.110.32\lib\net45\AWSSDK.S3.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=106.0.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.106.10.1\lib\net452\RestSharp.dll</HintPath>
+    </Reference>
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -124,6 +130,7 @@
     <Content Include="Content\assets\images\avatar-7.jpg" />
     <Content Include="Content\assets\images\avatar-8.jpg" />
     <Content Include="Content\assets\images\avatar-9.jpg" />
+    <Content Include="Content\assets\images\aws_general_view.png" />
     <Content Include="Content\assets\images\dark_dots.png" />
     <Content Include="Content\assets\images\default-user.png" />
     <Content Include="Content\assets\images\line_detail.png" />
@@ -137,6 +144,7 @@
     <Content Include="Content\assets\images\photodune-4043508-3d-modern-office-room-l.jpg" />
     <Content Include="Content\assets\images\picture.svg" />
     <Content Include="Content\assets\images\plane.png" />
+    <Content Include="Content\assets\images\software_layer_view.png" />
     <Content Include="Content\assets\images\your-logo-here.png" />
     <Content Include="Content\assets\js\charts.js" />
     <Content Include="Content\assets\js\form-elements.js" />
@@ -923,12 +931,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\BucketController.cs" />
+    <Compile Include="Controllers\DashboardController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Infrastructure\BaseController.cs" />
+    <Compile Include="Infrastructure\DeserializeEntity.cs" />
     <Compile Include="Infrastructure\S3Operations.cs" />
+    <Compile Include="Models\AccountLoginViewModel.cs" />
     <Compile Include="Models\BucketViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -1090,6 +1102,8 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Bucket\List.cshtml" />
     <Content Include="Views\Shared\Notification.cshtml" />
+    <Content Include="Views\Account\Login.cshtml" />
+    <Content Include="Views\Dashboard\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -1102,6 +1116,12 @@
   </ItemGroup>
   <ItemGroup>
     <Analyzer Include="..\packages\AWSSDK.S3.3.3.110.32\analyzers\dotnet\cs\AWSSDK.S3.CodeAnalysis.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Yerel.Entities\Yerel.Entities.csproj">
+      <Project>{8F222DD9-D076-4AE2-8308-BFD126B17FC2}</Project>
+      <Name>Yerel.Entities</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
