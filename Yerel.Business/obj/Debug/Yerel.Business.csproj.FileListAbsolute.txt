@@ -1,0 +1,97 @@
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Yerel.Business.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Yerel.Business.pdb
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\FluentValidation.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Ninject.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Owin.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Yerel.Core.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Yerel.DataAccess.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Yerel.Entities.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\EntityFramework.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\log4net.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\PostSharp.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Yerel.Core.pdb
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Yerel.Core.dll.config
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Yerel.DataAccess.pdb
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Yerel.DataAccess.dll.config
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Yerel.Entities.pdb
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\FluentValidation.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Ninject.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\EntityFramework.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\log4net.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\PostSharp.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\obj\Debug\Yerel.Business.csprojAssemblyReference.cache
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\obj\Debug\Yerel.Business.csproj.CopyComplete
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\obj\Debug\Yerel.Business.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Business\obj\Debug\Yerel.Business.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Yerel.Business.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Yerel.Business.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\FluentValidation.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Ninject.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Owin.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Yerel.Core.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Yerel.DataAccess.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Yerel.Entities.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\EntityFramework.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\log4net.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\PostSharp.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Yerel.Core.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Yerel.Core.dll.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Yerel.DataAccess.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Yerel.DataAccess.dll.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Yerel.Entities.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\FluentValidation.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Ninject.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\EntityFramework.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\log4net.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\PostSharp.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\obj\Debug\Yerel.Business.csprojAssemblyReference.cache
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\obj\Debug\Yerel.Business.csproj.CopyComplete
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\obj\Debug\Yerel.Business.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Business\obj\Debug\Yerel.Business.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Yerel.Business.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Yerel.Business.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\FluentValidation.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Ninject.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Owin.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Yerel.Core.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Yerel.DataAccess.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Yerel.Entities.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\EntityFramework.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\log4net.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\PostSharp.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Yerel.Core.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Yerel.Core.dll.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Yerel.DataAccess.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Yerel.DataAccess.dll.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Yerel.Entities.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\FluentValidation.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Ninject.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\EntityFramework.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\log4net.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\PostSharp.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\obj\Debug\Yerel.Business.csprojAssemblyReference.cache
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\obj\Debug\Yerel.Business.csproj.CopyComplete
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\obj\Debug\Yerel.Business.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Business\obj\Debug\Yerel.Business.pdb

@@ -1,0 +1,9 @@
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.OnpremiseClient\bin\Debug\Yerel.OnpremiseClient.exe.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.OnpremiseClient\bin\Debug\Yerel.OnpremiseClient.exe
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.OnpremiseClient\bin\Debug\Yerel.OnpremiseClient.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.OnpremiseClient\obj\Debug\Yerel.OnpremiseClient.csprojAssemblyReference.cache
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.OnpremiseClient\obj\Debug\Yerel.OnpremiseClient.ProjectInstaller.resources
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.OnpremiseClient\obj\Debug\Yerel.OnpremiseClient.csproj.GenerateResource.cache
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.OnpremiseClient\obj\Debug\Yerel.OnpremiseClient.csproj.CoreCompileInputs.cache
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.OnpremiseClient\obj\Debug\Yerel.OnpremiseClient.exe
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.OnpremiseClient\obj\Debug\Yerel.OnpremiseClient.pdb

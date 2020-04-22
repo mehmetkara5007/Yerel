@@ -1,0 +1,214 @@
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\ApplicationInsights.config
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\roslyn\csc.exe
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\roslyn\vbc.exe
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\roslyn\VBCSCompiler.exe
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Yerel.Hosting.dll.config
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Yerel.Hosting.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Yerel.Hosting.pdb
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\EntityFramework.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\EntityFramework.SqlServer.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.AI.Web.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Newtonsoft.Json.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\System.Net.Http.Formatting.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\System.Web.Http.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\System.Web.Http.WebHost.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Yerel.Business.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Yerel.Core.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Yerel.DataAccess.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Yerel.Entities.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Yerel.ServiceLibrary.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\FluentValidation.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Ninject.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\log4net.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\PostSharp.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Yerel.Business.pdb
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Yerel.Core.pdb
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Yerel.Core.dll.config
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Yerel.DataAccess.pdb
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Yerel.DataAccess.dll.config
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Yerel.Entities.pdb
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Yerel.ServiceLibrary.pdb
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\EntityFramework.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\EntityFramework.SqlServer.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.AI.Web.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Newtonsoft.Json.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\System.Net.Http.Formatting.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\System.Web.Http.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\System.Web.Http.WebHost.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\FluentValidation.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\Ninject.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\log4net.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\bin\PostSharp.xml
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\obj\Debug\Yerel.Hosting.csprojAssemblyReference.cache
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\obj\Debug\Yerel.Hosting.csproj.CopyComplete
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\obj\Debug\Yerel.Hosting.dll
+C:\Users\mehmet.kara\Desktop\workspace\Yerel.Hosting\obj\Debug\Yerel.Hosting.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\ApplicationInsights.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\roslyn\csc.exe
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\roslyn\vbc.exe
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\roslyn\VBCSCompiler.exe
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Yerel.Hosting.dll.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Yerel.Hosting.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Yerel.Hosting.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\EntityFramework.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\EntityFramework.SqlServer.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.AI.Web.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Newtonsoft.Json.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\System.Net.Http.Formatting.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\System.Web.Http.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\System.Web.Http.WebHost.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Yerel.Business.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Yerel.Core.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Yerel.DataAccess.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Yerel.Entities.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Yerel.ServiceLibrary.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\FluentValidation.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Ninject.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\log4net.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\PostSharp.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Yerel.Business.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Yerel.Core.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Yerel.Core.dll.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Yerel.DataAccess.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Yerel.DataAccess.dll.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Yerel.Entities.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Yerel.ServiceLibrary.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\EntityFramework.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\EntityFramework.SqlServer.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.AI.Web.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Newtonsoft.Json.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\System.Net.Http.Formatting.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\System.Web.Http.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\System.Web.Http.WebHost.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\FluentValidation.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\Ninject.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\log4net.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\bin\PostSharp.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\obj\Debug\Yerel.Hosting.csprojAssemblyReference.cache
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\obj\Debug\Yerel.Hosting.csproj.CopyComplete
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\obj\Debug\Yerel.Hosting.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel\Yerel.Hosting\obj\Debug\Yerel.Hosting.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\ApplicationInsights.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\roslyn\csc.exe
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\roslyn\vbc.exe
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\roslyn\VBCSCompiler.exe
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Yerel.Hosting.dll.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Yerel.Hosting.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Yerel.Hosting.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\EntityFramework.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\EntityFramework.SqlServer.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.AI.Web.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Newtonsoft.Json.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\System.Net.Http.Formatting.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\System.Web.Http.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\System.Web.Http.WebHost.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Yerel.Business.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Yerel.Core.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Yerel.DataAccess.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Yerel.Entities.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Yerel.ServiceLibrary.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\FluentValidation.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Ninject.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\log4net.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\PostSharp.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Yerel.Business.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Yerel.Core.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Yerel.Core.dll.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Yerel.DataAccess.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Yerel.DataAccess.dll.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Yerel.Entities.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Yerel.ServiceLibrary.pdb
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\EntityFramework.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\EntityFramework.SqlServer.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.AI.Web.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Newtonsoft.Json.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\System.Net.Http.Formatting.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\System.Web.Http.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\System.Web.Http.WebHost.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\FluentValidation.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\Ninject.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\log4net.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\bin\PostSharp.xml
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\obj\Debug\Yerel.Hosting.csprojAssemblyReference.cache
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\obj\Debug\Yerel.Hosting.csproj.CopyComplete
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\obj\Debug\Yerel.Hosting.dll
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Hosting\obj\Debug\Yerel.Hosting.pdb
