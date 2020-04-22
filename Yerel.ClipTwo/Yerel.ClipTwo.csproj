@@ -1104,6 +1104,8 @@
     <Content Include="Views\Shared\Notification.cshtml" />
     <Content Include="Views\Account\Login.cshtml" />
     <Content Include="Views\Dashboard\Index.cshtml" />
+    <Content Include="Views\Dashboard\Monitore.cshtml" />
+    <Content Include="Views\Dashboard\Integrate.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -1113,6 +1115,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Businessçlayer\" />
   </ItemGroup>
   <ItemGroup>
     <Analyzer Include="..\packages\AWSSDK.S3.3.3.110.32\analyzers\dotnet\cs\AWSSDK.S3.CodeAnalysis.dll" />

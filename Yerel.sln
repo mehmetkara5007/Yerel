@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerel.ConsumeApi", "Yerel.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerel.CreateOAuth", "Yerel.CreateOAuth\Yerel.CreateOAuth.csproj", "{1D6BB3C1-59BD-496C-BDAB-EE11AEA485C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerel.OnpremiseClient", "Yerel.OnpremiseClient\Yerel.OnpremiseClient.csproj", "{F3C4A973-FD37-4EE6-BFD5-927AD43A4F47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{1D6BB3C1-59BD-496C-BDAB-EE11AEA485C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D6BB3C1-59BD-496C-BDAB-EE11AEA485C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D6BB3C1-59BD-496C-BDAB-EE11AEA485C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C4A973-FD37-4EE6-BFD5-927AD43A4F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C4A973-FD37-4EE6-BFD5-927AD43A4F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C4A973-FD37-4EE6-BFD5-927AD43A4F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C4A973-FD37-4EE6-BFD5-927AD43A4F47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

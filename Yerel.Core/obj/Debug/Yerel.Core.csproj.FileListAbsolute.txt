@@ -136,3 +136,4 @@ C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\obj\Debug\Yere
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\obj\Debug\Yerel.Core.dll
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\obj\Debug\Yerel.Core.pdb
 C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\obj\Debug\PostSharp\postsharp.app.config
+C:\Users\mehmet.kara\Desktop\data\projeler\Yerel - AWS\Yerel.Core\obj\Debug\Yerel.Core.csprojAssemblyReference.cache

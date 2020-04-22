@@ -13,5 +13,15 @@ namespace Yerel.ClipTwo.Controllers
         {
             return View();
         }
+
+        public ActionResult Monitore()
+        {
+            return View();
+        }
+
+        public ActionResult Integrate()
+        {
+            return View();
+        }
     }
 }
